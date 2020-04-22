@@ -4,4 +4,5 @@ Collaborators:
 
 - Jenny Uehling
 
-- puppies and kittens!
+Jenny types in line 7
+
